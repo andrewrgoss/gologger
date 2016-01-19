@@ -11,7 +11,7 @@ This tool is setup to customize logging outputs based on the environment command
 
 You'll need to install the following Go packages to start using this:
 <pre>
-	go get gitlab.digitas.com/media-systems/gologger
+	go get github.com/andrewrgoss/gologger
 	go get comail.io/go/colog
 	go get gopkg.in/natefinch/lumberjack.v2
 </pre>
