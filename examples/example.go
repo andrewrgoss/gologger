@@ -4,7 +4,7 @@ import (
     "comail.io/go/colog"
     "flag"
     "fmt"
-    "gitlab.digitas.com/media-systems/gologger"
+    "github.com/andrewrgoss/gologger"
     "log"
     "os"
     "strings"
